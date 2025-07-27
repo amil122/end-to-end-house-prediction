@@ -1,0 +1,14 @@
+Step handle_missing_values_step has started.
+
+Executing missing value handling strategy.
+
+Filling missing values using method: mean
+
+Missing values filled.
+
+Implicitly linking artifact output to model the-price-predictor version 11.
+
+Step handle_missing_values_step has finished in 1.059s.
+
+Step handle_missing_values_step completed successfully.
+
