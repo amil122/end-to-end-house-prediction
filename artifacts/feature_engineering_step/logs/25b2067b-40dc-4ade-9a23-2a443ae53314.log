@@ -1,0 +1,14 @@
+Step feature_engineering_step has started.
+
+Applying feature engineering strategy.
+
+Applying log transformation to features: ['Gr Liv Area', 'SalePrice']
+
+Log transformation completed.
+
+Implicitly linking artifact output to model the-price-predictor version 12.
+
+Step feature_engineering_step has finished in 0.718s.
+
+Step feature_engineering_step completed successfully.
+

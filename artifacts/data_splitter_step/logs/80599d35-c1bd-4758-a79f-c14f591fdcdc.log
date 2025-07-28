@@ -1,0 +1,20 @@
+Step data_splitter_step has started.
+
+Splitting data using the selected strategy.
+
+Performing simple train-test split.
+
+Train-test split completed.
+
+Implicitly linking artifact output_0 to model the-price-predictor version 12.
+
+Implicitly linking artifact output_1 to model the-price-predictor version 12.
+
+Implicitly linking artifact output_2 to model the-price-predictor version 12.
+
+Implicitly linking artifact output_3 to model the-price-predictor version 12.
+
+Step data_splitter_step has finished in 2.083s.
+
+Step data_splitter_step completed successfully.
+
